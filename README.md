@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Developer ; Owner of Cloud Hub</h1>
 
 <h2 align="left">My script: discord.gg/WHpy6C39X4</h2>
@@ -19,4 +17,3 @@
 <h1 align="left"></h1>
 
 <h3 align="left">currently pretty known for being an Arceus X Staff</h3>
-
