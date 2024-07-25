@@ -1,5 +1,4 @@
 
-<img align="right" alt="Coding" width="500" src="https://hackernoon.com/images/f2px36fy.gif">
 
 <h1 align="left">Developer ; Owner of Cloud Hub</h1>
 
