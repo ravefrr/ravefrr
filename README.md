@@ -7,7 +7,7 @@
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </a> <a href="https://luau-lang.org/" target="_blank" rel="noreferrer"> <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40"/> </a>
 </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://www.lua.org/images/luaa.gif" alt="lua" width="40" height="40"/> </a></p>
-<h1 align="left">Mainly coding in Lua</h1>
+<h1 align="left">Mainly coding in Luau (Roblox Scripts)</h1>
 <h2 align="left">Contact:</h2>
 <h3 align="left">Discord: ravejsreal ; add to contact me</h3>
 <h2 align="left">Roblox:</h2>
