@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](https://guns.lol/rave./)
+[![MasterHead]([https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif](https://i.imgur.com/X91RcbB.png))](discord.gg/WHpy6C39X4)
 <h1 align="left">Developer ; Owner of Cloud Hub</h1>
 <h2 align="left">My script: discord.gg/WHpy6C39X4</h2>
 <h3 align="left">Languages:</h3>
