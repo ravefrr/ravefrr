@@ -1,4 +1,5 @@
 [![MasterHead](https://i.imgur.com/F7cbiEn.png)](discord.gg/WHpy6C39X4)
+<p> <img src="https://komarev.com/ghpvc/?username=ravefrr&color=000" alt="ravefrr" />
 <h1 align="left">Developer ; Owner of Cloud Hub</h1>
 <h2 align="left">My script: discord.gg/WHpy6C39X4</h2>
 <h3 align="left">Languages:</h3>
